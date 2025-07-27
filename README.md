@@ -1,1 +1,1 @@
-# StegoSolver
+The author was inspired by the StegSolve application, the code of which remains undisclosed. After conducting experiments on different special images, the author identified a pattern of encoding information in StegSolve, after which this StegoSolver application was created to encode and decode information in images based on the identified predecessor approach. The code was written solely by the author, it is unique and does not repeat the implementation of any existing application.
